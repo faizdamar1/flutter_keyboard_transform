@@ -19,5 +19,5 @@ Transformasi ini harus mengambil bilangan bulat N dan melakukan pergeseran linie
 
 # Input untuk ini adalah H = Flip horizontal, V = FLip Vertical, number for shift
 
-![alt text](https://github.com/faizdamar1/flutter_keyboard_transform/screenshot/1.png)
-![alt text](https://github.com/faizdamar1/flutter_keyboard_transform/screenshot/2.png)
+![alt text](https://github.com/faizdamar1/flutter_keyboard_transform/blob/main/screenshot/1.png)
+![alt text](https://github.com/faizdamar1/flutter_keyboard_transform/blob/main/screenshot/2.png)
